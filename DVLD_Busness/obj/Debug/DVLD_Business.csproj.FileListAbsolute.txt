@@ -1,0 +1,9 @@
+C:\Users\ahmad\source\repos\DVLD_Project\DVLD_Busness\bin\Debug\DVLD_Busness.dll
+C:\Users\ahmad\source\repos\DVLD_Project\DVLD_Busness\bin\Debug\DVLD_Busness.pdb
+C:\Users\ahmad\source\repos\DVLD_Project\DVLD_Busness\bin\Debug\DVLD_Data_Access.dll
+C:\Users\ahmad\source\repos\DVLD_Project\DVLD_Busness\bin\Debug\DVLD_Data_Access.pdb
+C:\Users\ahmad\source\repos\DVLD_Project\DVLD_Busness\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\DVLD_Project\DVLD_Busness\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\DVLD_Project\DVLD_Busness\obj\Debug\DVLD_Bus.1422E61B.Up2Date
+C:\Users\ahmad\source\repos\DVLD_Project\DVLD_Busness\obj\Debug\DVLD_Busness.dll
+C:\Users\ahmad\source\repos\DVLD_Project\DVLD_Busness\obj\Debug\DVLD_Busness.pdb

@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|c:\\users\\ahmad\\source\\repos\\dvld_project\\dvld_project\\applications\\services\\replacementfordamagedorlostlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\applications\\services\\replacementfordamagedorlostlicense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B509EB9-DC7E-4463-AE36-6B6EBF38D483}|DVLD_Data_Access\\DVLD_Data_Access.csproj|C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\dvld_data_access\\clsdriverdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B509EB9-DC7E-4463-AE36-6B6EBF38D483}|DVLD_Data_Access\\DVLD_Data_Access.csproj|solutionrelative:dvld_data_access\\clsdriverdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\dvld_project\\applications\\manage_applecation\\tests\\addnewappointmentfortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\applications\\manage_applecation\\tests\\addnewappointmentfortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\dvld_project\\applications\\manage_applecation\\tests\\addnewappointmentfortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\applications\\manage_applecation\\tests\\addnewappointmentfortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\dvld_project\\applications\\manage_applecation\\tests\\sechduletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\applications\\manage_applecation\\tests\\sechduletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\dvld_project\\applications\\manage_applecation\\tests\\sechduletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\applications\\manage_applecation\\tests\\sechduletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\dvld_project\\applications\\manage_applecation\\tests\\sechduledtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\applications\\manage_applecation\\tests\\sechduledtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\dvld_project\\applications\\manage_applecation\\localdrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\applications\\manage_applecation\\localdrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B509EB9-DC7E-4463-AE36-6B6EBF38D483}|DVLD_Data_Access\\DVLD_Data_Access.csproj|C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\dvld_data_access\\clslocaldrivinglicenseapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B509EB9-DC7E-4463-AE36-6B6EBF38D483}|DVLD_Data_Access\\DVLD_Data_Access.csproj|solutionrelative:dvld_data_access\\clslocaldrivinglicenseapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\dvld_project\\applications\\manage_applecation\\localdrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20F9B82B-157E-4491-8DA8-606165906E8C}|DVLD_Project\\DVLD_Project.csproj|solutionrelative:dvld_project\\applications\\manage_applecation\\localdrivinglicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96D4A4A-5805-4E2C-B4B7-4F3DBA08919D}|DVLD_Busness\\DVLD_Business.csproj|C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\dvld_busness\\clslocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96D4A4A-5805-4E2C-B4B7-4F3DBA08919D}|DVLD_Busness\\DVLD_Business.csproj|solutionrelative:dvld_busness\\clslocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReplacementForDamagedOrLostLicense.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Services\\ReplacementForDamagedOrLostLicense.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\Applications\\Services\\ReplacementForDamagedOrLostLicense.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Services\\ReplacementForDamagedOrLostLicense.cs",
+              "RelativeToolTip": "DVLD_Project\\Applications\\Services\\ReplacementForDamagedOrLostLicense.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:29:02.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsDriverData.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Data_Access\\clsDriverData.cs",
+              "RelativeDocumentMoniker": "DVLD_Data_Access\\clsDriverData.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Data_Access\\clsDriverData.cs",
+              "RelativeToolTip": "DVLD_Data_Access\\clsDriverData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:18:24.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddNewAppointmentForTest.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Manage_Applecation\\Tests\\AddNewAppointmentForTest.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\Applications\\Manage_Applecation\\Tests\\AddNewAppointmentForTest.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Manage_Applecation\\Tests\\AddNewAppointmentForTest.cs",
+              "RelativeToolTip": "DVLD_Project\\Applications\\Manage_Applecation\\Tests\\AddNewAppointmentForTest.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAswJgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:04:15.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddNewAppointmentForTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Manage_Applecation\\Tests\\AddNewAppointmentForTest.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\Applications\\Manage_Applecation\\Tests\\AddNewAppointmentForTest.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Manage_Applecation\\Tests\\AddNewAppointmentForTest.cs [Design]",
+              "RelativeToolTip": "DVLD_Project\\Applications\\Manage_Applecation\\Tests\\AddNewAppointmentForTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:04:13.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sechduleTests.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Manage_Applecation\\Tests\\sechduleTests.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\Applications\\Manage_Applecation\\Tests\\sechduleTests.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Manage_Applecation\\Tests\\sechduleTests.cs",
+              "RelativeToolTip": "DVLD_Project\\Applications\\Manage_Applecation\\Tests\\sechduleTests.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswHYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:03:30.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sechduleTests.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Manage_Applecation\\Tests\\sechduleTests.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\Applications\\Manage_Applecation\\Tests\\sechduleTests.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Manage_Applecation\\Tests\\sechduleTests.cs [Design]",
+              "RelativeToolTip": "DVLD_Project\\Applications\\Manage_Applecation\\Tests\\sechduleTests.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:03:28.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sechduledTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Manage_Applecation\\Tests\\sechduledTest.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\Applications\\Manage_Applecation\\Tests\\sechduledTest.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Manage_Applecation\\Tests\\sechduledTest.cs [Design]",
+              "RelativeToolTip": "DVLD_Project\\Applications\\Manage_Applecation\\Tests\\sechduledTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:03:25.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LocalDrivingLicenseApplications.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Manage_Applecation\\LocalDrivingLicenseApplications.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\Applications\\Manage_Applecation\\LocalDrivingLicenseApplications.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Manage_Applecation\\LocalDrivingLicenseApplications.cs",
+              "RelativeToolTip": "DVLD_Project\\Applications\\Manage_Applecation\\LocalDrivingLicenseApplications.cs",
+              "ViewState": "AgIAAF4BAAAAAAAAAAAwwGwBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T14:50:29.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocalDrivingLicenseApplications.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Manage_Applecation\\LocalDrivingLicenseApplications.cs",
+              "RelativeDocumentMoniker": "DVLD_Project\\Applications\\Manage_Applecation\\LocalDrivingLicenseApplications.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Project\\Applications\\Manage_Applecation\\LocalDrivingLicenseApplications.cs [Design]",
+              "RelativeToolTip": "DVLD_Project\\Applications\\Manage_Applecation\\LocalDrivingLicenseApplications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T14:50:25.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsLocalDrivingLicenseApplicationData.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Data_Access\\clsLocalDrivingLicenseApplicationData.cs",
+              "RelativeDocumentMoniker": "DVLD_Data_Access\\clsLocalDrivingLicenseApplicationData.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Data_Access\\clsLocalDrivingLicenseApplicationData.cs",
+              "RelativeToolTip": "DVLD_Data_Access\\clsLocalDrivingLicenseApplicationData.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T14:48:01.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsLocalDrivingLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Busness\\clsLocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "DVLD_Busness\\clsLocalDrivingLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\DVLD_Project\\DVLD_Busness\\clsLocalDrivingLicenseApplication.cs",
+              "RelativeToolTip": "DVLD_Busness\\clsLocalDrivingLicenseApplication.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T14:43:55.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
